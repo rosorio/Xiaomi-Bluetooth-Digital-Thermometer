@@ -57,6 +57,7 @@ Notification handle = 0x0036 value: 4c 07 3d 99 0b
 Notification handle = 0x0036 value: 4e 07 3d 99 0b
 Notification handle = 0x0036 value: 4b 07 3d 99 0b
 ```
+## Decoding the values
 
 ![](real-device.png?raw=true "Real thermometer")
 
