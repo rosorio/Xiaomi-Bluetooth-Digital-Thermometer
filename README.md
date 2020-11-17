@@ -67,5 +67,5 @@ Notification handle = 0x0036 value: 4b 07 3d 99 0b
 4b 07 3d 99 0b
 ----- --
  \     \-Humidity in % 0x3D = 61%
-  \_ Temperature in Hex (0x074B = 1867) 1867 / 10 = 18.67
+  \_ Temperature in Hex (0x074B = 1867) 1867 / 100 = 18.67
 ```
