@@ -1,3 +1,6 @@
+# :bangbang: This article has moved to my [website](http://www.osorio.me/projects/hack/Xiaomi-Bluetooth-Digital-Thermometer/), no more updates here :bangbang:
+
+
 # Xiaomi-Bluetooth-Digital-Thermometer
 
 Last month I brought a bundle of 3 bluetooth [thermometer](https://www.aliexpress.com/item/4000358588436.html?spm=a2g0s.9042311.0.0.5a204c4d9Ag1aE) from AliExpress.
